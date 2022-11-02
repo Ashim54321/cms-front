@@ -18,7 +18,7 @@ function SideNav() {
     <div className="Sidenav">
       <Text className="but" component={Link} to="/home/">
         <CgProfile />
-        <span>Profile</span>
+        <span>Profiles</span>
       </Text>
       <Text className="but" component={Link} to="/news/">
         <BsNewspaper />
